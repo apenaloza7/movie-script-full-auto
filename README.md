@@ -4,4 +4,4 @@ spam a movie script using pyautogui
 # To-Do
 * [] allow for storage of multiple movie scripts
 * [] ???
-* [] *** profit ***
+* [] ***profit***
