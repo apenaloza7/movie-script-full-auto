@@ -33,10 +33,10 @@ def fireCannon(scriptBeingUsed):
 def run():
 
     # Change this variable to the movie script of your choice
-    movieScript = "beeMovieScript.txt"
+    movieScript = "zuckerberg.txt"
 
     print("Warming up....")
-    
+
     # allows you time to get to your message window
     time.sleep(7)
 
